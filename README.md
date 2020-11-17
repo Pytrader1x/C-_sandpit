@@ -1,2 +1,2 @@
-# C-_sandpit
+# C++ sandpit
 C++ sandpit for my Codecademy projects
