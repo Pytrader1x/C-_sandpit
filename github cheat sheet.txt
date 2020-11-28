@@ -1,0 +1,15 @@
+1) git init in folder you want to add
+
+
+2) git add *    (To add all files)
+3) git status
+
+4) git commit -m "Added all files"
+
+5) git log
+
+6) for adding to a new remote use git remote add origin https://github.com/Pytrader1x/CPP_alien.git
+
+7) make sure on main branch    git branch -M main
+
+8) Now push all the staged files from 4) to GitHub via     git push -u origin main
