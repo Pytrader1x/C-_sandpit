@@ -1,2 +1,3 @@
-# C++ sandpit
-C++ sandpit for my Codecademy projects
+# C++ Sandpit
+
+Designed to test and add my projects from Codecademy
